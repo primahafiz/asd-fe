@@ -73,7 +73,7 @@ const MainPage = () => {
                         <Select.Option value="unetidnn">UNet-IDNN</Select.Option>
                         <Select.Option value="idnn">AE-IDNN</Select.Option>
                         <Select.Option value="unet">UNet</Select.Option>
-                        <Select.Option value="ae">AE</Select.Option>
+                        <Select.Option value="autoencoder">Autoencoder</Select.Option>
                     </Select>
                 </Form.Item>
                 <Form.Item label="Feature" style={{width:'500px' }}>
